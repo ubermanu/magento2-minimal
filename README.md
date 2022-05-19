@@ -1,4 +1,4 @@
-# Minimal
+# Magento 2 - Minimal
 
 A module that make a minimalistic Magento 2 installation possible.
 
